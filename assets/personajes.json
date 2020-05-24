@@ -1,0 +1,191 @@
+[
+    {   
+        "img": "https://www.pngkey.com/png/detail/61-611439_spiderman-is-a-major-evergreen-license-spiderman-png.png",
+        "nombre": "Spider-Man",
+        "identidad": "Peter Parker",
+        "edad": "21 años",
+        "altura": "1.78",
+        "genero": "Masculino",
+        "descripcion": "Fue mordido por una araña radioactiva, el estudiante de secundaria Peter Parker ganó la velocidad, la fuerza y ​​los poderes de una araña."
+    },
+    {   
+        "img": "https://i.pinimg.com/originals/d2/66/a7/d266a77f5905be1a6ea7ffacffbd8eaf.png",
+        "nombre": "Iron Man",
+        "identidad": "Tony Stark",
+        "edad": "42 años",
+        "altura": "1.74",
+        "genero": "Masculino",
+        "descripcion": "Un genio, un millonario, un playboy y un filántropo."
+    },
+    {   
+        "img": "https://i.pinimg.com/originals/2c/89/28/2c89280c71fab08e676f4fc298b88a9f.png",
+        "nombre": "Capitan America",
+        "identidad": "Steve Rogers",
+        "edad": "70 años",
+        "altura": "1.64",
+        "genero": "Masculino",
+        "descripcion": "Posee sentidos, agilidad, velocidad y fuerza sobrehumanas. Gran habilidad con armas de fuego, con el martillo mjolnir y con su escudo."
+    },
+    {   
+        "img": "https://i.pinimg.com/originals/ff/d0/6d/ffd06d826c0571dac0aa8c4fa076b89b.png",
+        "nombre": "Thor",
+        "identidad": "Thor Odinson",
+        "edad": "1500 años",
+        "altura": "1.90",
+        "genero": "Masculino",
+        "descripcion": "Thor uno de los dioses mas poderosos de todo Asgard, posee ciertas condiciones físicas que le perimitián hacer asañas asombrosas."
+    },
+    {   
+        "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/89f9adda-0ce2-41ca-bd0a-629c69bba8e5/dapuv77-136f3b3e-66ea-4d43-9bbd-e38008c80c4f.png/v1/fill/w_1024,h_1191,strp/deadpool_png__3_by_anna_x_anarchy_dapuv77-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xMTkxIiwicGF0aCI6IlwvZlwvODlmOWFkZGEtMGNlMi00MWNhLWJkMGEtNjI5YzY5YmJhOGU1XC9kYXB1djc3LTEzNmYzYjNlLTY2ZWEtNGQ0My05YmJkLWUzODAwOGM4MGM0Zi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.BiRn7SyNFJkkS4i8V8-fz8P0YqoC1zKWjbF5dsbMVJM",
+        "nombre": "Deeadpool",
+        "identidad": "Wade Winston",
+        "edad": "29 años",
+        "altura": "1.88",
+        "genero": "Masculino",
+        "descripcion": "Es un mercenario mentalmente inestable y desfigurado, Deadpool apareció originalmente como un villano."
+    },
+    {   
+        "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea196117-0b64-49b7-b13f-79f43cf77e53/dd2ixph-634c7de2-9008-4317-bc1e-7b5f31c5f3a9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZWExOTYxMTctMGI2NC00OWI3LWIxM2YtNzlmNDNjZjc3ZTUzXC9kZDJpeHBoLTYzNGM3ZGUyLTkwMDgtNDMxNy1iYzFlLTdiNWYzMWM1ZjNhOS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.0Xzlpg251FAI1WZGiPGVtDEhMtPc7MUmB4WfLAFNMC8",
+        "nombre": "Doctor Strange",
+        "identidad": "Stephen Strange ",
+        "edad": "90 años",
+        "altura": "1.89",
+        "genero": "Masculino",
+        "descripcion": "Doctor Strange sirve como el Hechicero Supremo, el principal protector de la Tierra contra las amenazas mágicas y místicas."
+    },
+    {   
+        "img": "https://i.pinimg.com/originals/f6/81/b9/f681b947f895e2394e253b18a9fbcca2.png",
+        "nombre": "Bruja Escarlata",
+        "identidad": "Wanda Maximoff",
+        "edad": "56 años",
+        "altura": "1.70",
+        "genero": "Femenino",
+        "descripcion": "Posee habilidades telepáticas y telequinéticas, así como la capacidad de generar energía rojiza en sus manos, que convierte en rayos de energía."
+    },
+    {   
+        "img": "https://lh3.googleusercontent.com/proxy/kkUL1tR7WRfJssMjxzA1UBpnfXbvloBiJbzEEI9qfZ8ZW5fXbnCA85Pz1TZy0RnKbq8A3d9yRcmDIohxblzftlzYFjSvAnuIlBH-649jIWPJ-BRAYck",
+        "nombre": "Ojo de Halcon ",
+        "identidad": "Clint Barton",
+        "edad": "43 años",
+        "altura": "1.88",
+        "genero": "Masculino",
+        "descripcion": "Entrenado por delincuentes e inspirado por héroes, Clint Barton ha pasado de un joven con problemas en uno de los más grandes héroes de la Tierra. El mundo lo conoce mejor como Hawkeye (Ojo de halcón): El más poderoso tirador en el planeta."
+    },
+    {   
+        "img": "https://static-asset-delivery.hasbroapps.com/d4d8ccc5d7283c12117ccb3db9024ed79cdf4fef/08f2491586789683c11e806a0b478731.png",
+        "nombre": "Capitana Marvel ",
+        "identidad": "Carol Davers",
+        "edad": "52 años",
+        "altura": "1.75",
+        "genero": "Femenino",
+        "descripcion": "La ex piloto y agente de inteligencia de la Fuerza Aérea, Carol Danvers, persiguió su sueño de explorar el espacio como empleada de la NASA, pero su vida cambió para siempre cuando se transformó accidentalmente en un híbrido humano-Kree con poderes extraordinarios."
+    },
+    {   
+        "img": "https://lh3.googleusercontent.com/proxy/ZDySYLV9HvhghWGz7EljwPJuAOEZdQeLOdeQK2_OcVmCR5o7kMERzlULmmMkDs37ks_YfUqxXPxf9utwqW7HXVwqhjnWIEcdRjSHcqBuAdj1TjqTIWo",
+        "nombre": "Viuda Negra",
+        "identidad": "Natalia Romanova",
+        "edad": "36 años",
+        "altura": "1.70",
+        "genero": "Femenino",
+        "descripcion": "Es una agente rusa entrenada como espía, artista marcial y francotiradora, y equipada con un arsenal de armas de alta tecnología, que incluye un par de armas energéticas montadas en la muñeca."
+    },
+    {   
+        "img": "https://www.nicepng.com/png/detail/6-61850_imagenes-de-wolverine-en-png.png",
+        "nombre": "Wolverine",
+        "identidad": "James Howlett",
+        "edad": "35 años",
+        "altura": "1.61",
+        "genero": "Masculino",
+        "descripcion": "Es un mutante que posee sentidos afinados a los animales, capacidades físicas mejoradas, poderosa capacidad de regeneración conocida como un factor de curación, y tres garras retráctiles en cada mano."
+    },
+    {   
+        "img": "https://i.pinimg.com/originals/25/e1/2f/25e12f057f8c6a98982fd2d2857698c9.png",
+        "nombre": "Pantera Negra",
+        "identidad": "T'Challa",
+        "edad": "52 años",
+        "altura": "1.83",
+        "genero": "Masculino",
+        "descripcion": "Es el rey de la nación africana de Wakanda, sus habilidades van desde la fuerza sobrehumana hasta los súper reflejos."
+    },
+    {   
+        "img": "https://www.pngitem.com/pimgs/m/160-1601335_transparent-vision-marvel-png-vision-marvel-civil-war.png",
+        "nombre": "Vision",
+        "identidad": "Androide",
+        "edad": "52 años",
+        "altura": "1.80",
+        "genero": "Masculino",
+        "descripcion": "Visión es capaz de alterar su densidad. De este modo, es capaz de volverse más ligero que el aire para poder volar, o tan denso y duro como el diamante, e incluso hacerse intangible y atravesar la materia sólida. Además de esto, Visión puede proyectar rayos de energía solar a través de sus ojos."
+    },
+    {   
+        "img": "https://www.kindpng.com/picc/m/141-1411244_loki-avengers-marvel-godofmischief-hd-png-download.png",
+        "nombre": "Loki",
+        "identidad": "Loki Laufeyson",
+        "edad": "5100 años",
+        "altura": "1.88",
+        "genero": "Masculino",
+        "descripcion": "Loki es un dios nórdico quien representa el fuego, además simboliza el engaño, la envidia, la intriga y la maldad."
+    },
+    {   
+        "img": "https://i.pinimg.com/474x/39/7d/9c/397d9c228585feccc5bf6caec9b3eaae.jpg",
+        "nombre": "Groot",
+        "identidad": "Monarca del Planeta X",
+        "edad": "60 años",
+        "altura": "6.0",
+        "genero": "Masculino",
+        "descripcion": "Una criatura extraterrestre, similar a un árbol sensible."
+    },
+    {   
+        "img": "https://i.dlpng.com/static/png/6638137_preview.png",
+        "nombre": "Bucky Barnes",
+        "identidad": "James Buchanan Barnes",
+        "edad": "103 años",
+        "altura": "1.62",
+        "genero": "Masculino",
+        "descripcion": "Barnes es un maestro en combate cuerpo a cuerpo y artes marciales, además de ser experto en el uso de armas de guerra."
+    },
+    {   
+        "img": "https://www.kindpng.com/picc/m/29-291059_star-lord-png-hq-image-avengers-infinity-war.png",
+        "nombre": "Star Lord",
+        "identidad": "Peter Jason Quill",
+        "edad": "44",
+        "altura": "1.88",
+        "genero": "Masculino",
+        "descripcion": "Star-Lord. Es un aventurero espacial y líder de los Guardians of the Galaxy. ... Star-Lord posee una serie de implantes cibernéticos, incluyendo el ojo izquierdo, lo que le permite ver todos los espectros de energía, así como un chip de memoria insertado en el cerebro, lo que le otorga una capacidad de recordar al 100%."
+    },
+    {   
+        "img": "https://www.kindpng.com/picc/m/29-291439_guardians-of-the-galaxy-png-clipart-gamora-guardians.png",
+        "nombre": "Gamora",
+        "identidad": "Gamora Zen Whoberi Ben Titan",
+        "edad": "45 años",
+        "altura": "1.82",
+        "genero": "Femenino",
+        "descripcion": "Gamora es la hija adoptiva de Thanos, y es la última de su especie. Sus poderes incluyen fuerza y ​​agilidad sobrehumanas y un factor de curación acelerada. Ella también es una combatiente de élite, pudiendo vencer a la mayoría de los oponentes en la galaxia."
+    },
+    {   
+        "img": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/52/Civil_War_Full_Body_-_M%C3%A1quina_de_Guerra.png/revision/latest?cb=20160329214013&path-prefix=es",
+        "nombre": "Maquina de Guerra",
+        "identidad": "James Rupert Rhodes",
+        "edad": "41 años",
+        "altura": "1.85",
+        "genero": "Masculino",
+        "descripcion": "Rhodes fue entrenado como piloto de aeronaves y estudió ingeniería aeronáutica mientras estaba en servicio con el Cuerpo de Marines de los Estados Unidos. Él es conocedor de la operación / mantenimiento de aeronaves y ha pilotado varios aviones en Stark Enterprises."
+    },
+    {   
+        "img": "https://psicoanalisisdecomics.files.wordpress.com/2019/02/draxdestroyer.png",
+        "nombre": "Drax el Destructor",
+        "identidad": "Arthur Sampson Douglas",
+        "edad": "47 años",
+        "altura": "1.90",
+        "genero": "Masculino",
+        "descripcion": "Los poderes de Drax incluían fuerza y resistencia mejoradas, vuelo y la capacidad de proyectar explosiones de energía desde sus manos."
+    },
+    {   
+        "img": "https://vignette.wikia.nocookie.net/disneyypixar/images/1/1d/Rocket_%28Avengers_4%29.png/revision/latest/scale-to-width-down/340?cb=20180913190458&path-prefix=es",
+        "nombre": "Rocket Raccoon",
+        "identidad": "Rocket raccoon",
+        "edad": "12 años",
+        "altura": "1.2",
+        "genero": "Masculino",
+        "descripcion": "Rocket Raccoon es un mapache inteligente y antropomórfico."
+    }
+]
